@@ -20,3 +20,7 @@ Después de varios experimentos, se ha encontrado que un valor de β entre 0.8 y
 
 ### Conclusión:
 Este proyecto proporciona una implementación eficiente del algoritmo de PageRank para analizar la importancia de las páginas web en un grafo dirigido. Los resultados obtenidos destacan la página web de la Universidad Davis como la más importante en el contexto de las páginas web de California.
+
+##
+- @date: 17 Octubre 2021
+- @author: Oscar Julian
