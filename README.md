@@ -14,7 +14,7 @@ Cada proyecto tiene su propio directorio con código fuente, conjuntos de datos 
 
 ### [Algoritmo PageRank](https://github.com/oscarjuly23/DataMining/tree/main/PageRank)
 El algoritmo de PageRank es una técnica esencial en el ámbito de la búsqueda en la web, desarrollado por Google para asignar puntuaciones de relevancia a las páginas web en función de la estructura de enlaces entrantes. Este proyecto implementa el algoritmo de PageRank para analizar la importancia relativa de las páginas en una red dirigida y visualizar la distribución de puntuaciones.
-### [Optimización, Preproceso & IBL](https://github.com/oscarjuly23/DataMining/tree/main/IBL_OptDataPreprocessing)
+### [Optimización, Preprocesamiento & IBL](https://github.com/oscarjuly23/DataMining/tree/main/IBL_OptDataPreprocessing)
 Este proyecto aborda la optimización y preprocesamiento de datos utilizando diversas técnicas en el ámbito de machine learning. Desde la exploración y visualización de conjuntos de datos hasta la normalización y proyección en componentes principales, el código proporciona una comprensión detallada de cómo preparar los datos para algoritmos de aprendizaje automático.
 ### [Grid, Boosting & Redes Neuronales](https://github.com/oscarjuly23/DataMining/tree/main/Grid_Boosting_NeuralN)
 El tercer proyecto se centra en la aplicación de GridSearch y técnicas de boosting en un conjunto de datos de noticias vectorizadas. Explora la búsqueda de hiperparámetros óptimos, y evalúa el rendimiento de clasificadores como KNeighbors, MLP, y AdaBoost en un contexto diferente, demostrando la versatilidad de estas técnicas en diversos tipos de datos.
